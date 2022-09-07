@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inimene synniaasta="1926">
+    <nimi>Elizabeth II</nimi>
+    <lapsed>
+        <inimene synniaasta="1950">
+            <nimi>Anne, Princess Royal</nimi>
+        </inimene>
+        <inimene synniaasta="1948">
+            <nimi>Charles, Prince of Wales</nimi>
+            <lapsed>
+                <inimene synniaasta="1982">
+                    <nimi>William</nimi>
+                    <lapsed>
+                        <inimene synniaasta="2013">
+                            <nimi>George</nimi>
+                        </inimene>
+                    </lapsed>
+                    <lapsed>
+                        <inimene synniaasta="2015">
+                            <nimi>Charlotte</nimi>
+                        </inimene>
+                    </lapsed>
+                    <lapsed>
+                        <inimene synniaasta="2018">
+                            <nimi>Louis</nimi>
+                        </inimene>
+                    </lapsed>
+                </inimene>
+                <inimene synniaasta="1985">
+                    <nimi>Harry</nimi>
+                        <lapsed>
+                            <inimene synniaasta="2021">
+                                <nimi>test</nimi>
+                            </inimene>
+                        </lapsed>
+                </inimene>
+            </lapsed>
+        </inimene>
+        <inimene synniaasta="1960">
+            <nimi>Andrew, Duke of York</nimi>
+        </inimene>
+        <inimene synniaasta="1964">
+            <nimi>Edward, Earl of Wessex</nimi>
+                <lapsed>
+                    <inimene synniaasta="2008">
+                        <nimi>Windsor</nimi>
+                    </inimene>
+                </lapsed>
+                <lapsed>
+                    <inimene synniaasta="2007">
+                        <nimi>James</nimi>
+                    </inimene>
+                </lapsed>
+        </inimene>
+    </lapsed>
+
+</inimene>
